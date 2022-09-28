@@ -1,0 +1,1750 @@
+ [
+
+  {
+    "__metadata" : {
+      "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('1101002')",
+      "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('1101002')",
+      "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+    },
+    "PoNumber" : "1101002",
+    "PoItem" : "00010",
+    "ShortText" : "TIGE FILETEE M02",
+    "Material" : "000000000000003752",
+    "CoCode" : "1000",
+    "Plant" : "",
+    "StoreLoc" : "",
+    "MatGrp" : "00104",
+    "TargetQty" : "10.000",
+    "NetPrice" : "0.0000",
+    "NetValue" : "0.0000"
+  },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000293')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000293')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000293",
+        "PoItem" : "00010",
+        "ShortText" : "TIGE FILETEE M02",
+        "Material" : "000000000000003752",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "10.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000294')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000294')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000294",
+        "PoItem" : "00010",
+        "ShortText" : "TIGE FILETEE M02",
+        "Material" : "000000000000003752",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "10.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000295')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000295')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000295",
+        "PoItem" : "00010",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101025",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00104",
+        "TargetQty" : "40.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000296')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000296')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000296",
+        "PoItem" : "00010",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101025",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00104",
+        "TargetQty" : "40.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000297')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000297')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000297",
+        "PoItem" : "00010",
+        "ShortText" : "TIGE FILETEE M02",
+        "Material" : "000000000000003752",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "12.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000298')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000298')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000298",
+        "PoItem" : "00010",
+        "ShortText" : "TIGE FILETEE M02",
+        "Material" : "000000000000003752",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "12.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000299')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000299')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000299",
+        "PoItem" : "00010",
+        "ShortText" : "COURROIE HTM320",
+        "Material" : "000000000002101034",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "5.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000300')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000300')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000300",
+        "PoItem" : "00010",
+        "ShortText" : "COURROIE HTM320",
+        "Material" : "000000000002101034",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "5.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000300')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000300')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000300",
+        "PoItem" : "00020",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101023",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "20.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000301')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000301')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000301",
+        "PoItem" : "00010",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101025",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00104",
+        "TargetQty" : "40.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000302')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000302')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000302",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "200.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000302')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000302')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000302",
+        "PoItem" : "00020",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101023",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "10.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000302')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000302')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000302",
+        "PoItem" : "00030",
+        "ShortText" : "COURROIE HTM320",
+        "Material" : "000000000002101034",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "10.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000303')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000303')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000303",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "200.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000304')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000304')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000304",
+        "PoItem" : "00010",
+        "ShortText" : "TIGE FILETEE M02",
+        "Material" : "000000000000003752",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "20.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000305')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000305')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000305",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "3.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000306')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000306')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000306",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "3.000",
+        "NetPrice" : "12.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000307')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000307')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000307",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "3.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000308')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000308')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000308",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "3.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000309')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000309')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000309",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "3.000",
+        "NetPrice" : "10.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000310')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000310')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000310",
+        "PoItem" : "00010",
+        "ShortText" : "COURROIE HTM320",
+        "Material" : "000000000002101034",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "17.000",
+        "NetPrice" : "34.3000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000310')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000310')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000310",
+        "PoItem" : "00020",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101023",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "15.000",
+        "NetPrice" : "35.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000311')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000311')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000311",
+        "PoItem" : "00010",
+        "ShortText" : "Cuivre",
+        "Material" : "000000000001225001",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "1000.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000311')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000311')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000311",
+        "PoItem" : "00020",
+        "ShortText" : "TITANE-FORMATION",
+        "Material" : "TITANE",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "30.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000312')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000312')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000312",
+        "PoItem" : "00010",
+        "ShortText" : "COURROIE HTM320",
+        "Material" : "000000000002101034",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "17.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000313')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000313')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000313",
+        "PoItem" : "00010",
+        "ShortText" : "COURROIE HTM320",
+        "Material" : "000000000002101034",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "17.000",
+        "NetPrice" : "29.4100",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000313')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('6000000313')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "6000000313",
+        "PoItem" : "00020",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101023",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "15.000",
+        "NetPrice" : "29.3300",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000232')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000232')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000232",
+        "PoItem" : "00010",
+        "ShortText" : "TITANE-FORMATION",
+        "Material" : "TITANE",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "10.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000233')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000233')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000233",
+        "PoItem" : "00010",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101023",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00104",
+        "TargetQty" : "0.000",
+        "NetPrice" : "48.5000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000233')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000233')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000233",
+        "PoItem" : "00020",
+        "ShortText" : "BERLINGOTS CUIVRE-FORMATION",
+        "Material" : "000000000000003746",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "24.5000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000233')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000233')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000233",
+        "PoItem" : "00030",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101025",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00104",
+        "TargetQty" : "0.000",
+        "NetPrice" : "48.2500",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000234')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000234')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000234",
+        "PoItem" : "00010",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101025",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00104",
+        "TargetQty" : "40.000",
+        "NetPrice" : "9.8000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000235')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000235')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000235",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "10.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000235')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000235')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000235",
+        "PoItem" : "00020",
+        "ShortText" : "ROULEMENT 619",
+        "Material" : "000000000000003736",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "0001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "60.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000236')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000236')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000236",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "200.000",
+        "NetPrice" : "10.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000236')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000236')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000236",
+        "PoItem" : "00020",
+        "ShortText" : "ROULEMENT 620",
+        "Material" : "000000000002101023",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "10.000",
+        "NetPrice" : "15.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000236')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000236')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000236",
+        "PoItem" : "00030",
+        "ShortText" : "COURROIE HTM320",
+        "Material" : "000000000002101034",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "10.000",
+        "NetPrice" : "10.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000237')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000237')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000237",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "12.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000238')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000238')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000238",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "200.000",
+        "NetPrice" : "100.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000239')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000239')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000239",
+        "PoItem" : "00010",
+        "ShortText" : "Joint",
+        "Material" : "T-22225-13",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "200.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000240')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000240')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000240",
+        "PoItem" : "00010",
+        "ShortText" : "ROULEMENT 619",
+        "Material" : "000000000000003736",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "0001",
+        "TargetQty" : "500.000",
+        "NetPrice" : "5.7500",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000241')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000241')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000241",
+        "PoItem" : "00010",
+        "ShortText" : "TITANE-FORMATION",
+        "Material" : "TITANE",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "800.000",
+        "NetPrice" : "2000.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000242')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000242')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000242",
+        "PoItem" : "00010",
+        "ShortText" : "Cuivre",
+        "Material" : "000000000001225001",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "800.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000242')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000242')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000242",
+        "PoItem" : "00020",
+        "ShortText" : "Joints d'étanchéité",
+        "Material" : "GTS-N2-010",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "1.2000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000243')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4600000243')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4600000243",
+        "PoItem" : "00010",
+        "ShortText" : "TIGE FILETEE M02",
+        "Material" : "000000000000003752",
+        "CoCode" : "1000",
+        "Plant" : "",
+        "StoreLoc" : "",
+        "MatGrp" : "00104",
+        "TargetQty" : "0.000",
+        "NetPrice" : "11.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('5002000010')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('5002000010')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "5002000010",
+        "PoItem" : "00010",
+        "ShortText" : "Roulement à billes",
+        "Material" : "GTS-CLASSRE-03",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "15.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('5002000010')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('5002000010')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "5002000010",
+        "PoItem" : "00020",
+        "ShortText" : "Anneau de joint",
+        "Material" : "400-431",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "15.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019078')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019078')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019078",
+        "PoItem" : "00010",
+        "ShortText" : "service",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "1.0000",
+        "NetValue" : "1.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019079')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019079')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019079",
+        "PoItem" : "00010",
+        "ShortText" : "CHARIOT A FOURCHE",
+        "Material" : "000000000000003749",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "24000000",
+        "TargetQty" : "0.000",
+        "NetPrice" : "630.0000",
+        "NetValue" : "630.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019080')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019080')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019080",
+        "PoItem" : "00010",
+        "ShortText" : "CHARIOT A FOURCHE",
+        "Material" : "000000000000003749",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "24000000",
+        "TargetQty" : "0.000",
+        "NetPrice" : "630.0000",
+        "NetValue" : "1260.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019081')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019081')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019081",
+        "PoItem" : "00010",
+        "ShortText" : "peinture",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "12.0000",
+        "NetValue" : "1200.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019082')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019082')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019082",
+        "PoItem" : "00010",
+        "ShortText" : "SERVICE peinture",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "7.5000",
+        "NetValue" : "750.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019083')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019083')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019083",
+        "PoItem" : "00010",
+        "ShortText" : "TRANSPALETTE T12",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "001210",
+        "TargetQty" : "0.000",
+        "NetPrice" : "3000.0000",
+        "NetValue" : "15000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019084')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019084')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019084",
+        "PoItem" : "00010",
+        "ShortText" : "TITANE-FORMATION",
+        "Material" : "TITANE",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "95000.0000",
+        "NetValue" : "950000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019085')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019085')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019085",
+        "PoItem" : "00010",
+        "ShortText" : "ROULEMENT 619",
+        "Material" : "000000000000003736",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "0001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "5.5000",
+        "NetValue" : "44.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019086')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019086')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019086",
+        "PoItem" : "00010",
+        "ShortText" : "Boîtier poulie motrice",
+        "Material" : "R-T517",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "0.0000",
+        "NetValue" : "0.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019087')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019087')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019087",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019088')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019088')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019088",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019089')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019089')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019089",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019090')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019090')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019090",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019091')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019091')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019091",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019092')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019092')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019092",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019093')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019093')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019093",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019094')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019094')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019094",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019095')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019095')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019095",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019096')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019096')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019096",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019097')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019097')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019097",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019098')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019098')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019098",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0002",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019099')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019099')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019099",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0002",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019100')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019100')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019100",
+        "PoItem" : "00010",
+        "ShortText" : "TEST FI AP",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "12.0000",
+        "NetValue" : "120.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019101')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019101')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019101",
+        "PoItem" : "00010",
+        "ShortText" : "TEST FI AP",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00101",
+        "TargetQty" : "0.000",
+        "NetPrice" : "120.0000",
+        "NetValue" : "120000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019102')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019102')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019102",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "55000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019102')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019102')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019102",
+        "PoItem" : "00020",
+        "ShortText" : "TEST FI AP",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "120.0000",
+        "NetValue" : "120000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019103')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019103')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019103",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "550000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019104')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019104')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019104",
+        "PoItem" : "00010",
+        "ShortText" : "TEST FI AP",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "120.0000",
+        "NetValue" : "120000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019105')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019105')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019105",
+        "PoItem" : "00010",
+        "ShortText" : "Flatscreen LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019106')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019106')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019106",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019107')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019107')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019107",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "55000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019108')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019108')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019108",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "550.0000",
+        "NetValue" : "137500.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019109')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019109')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019109",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "200.0000",
+        "NetValue" : "2000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019110')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019110')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019110",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "200.0000",
+        "NetValue" : "60000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019111')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019111')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019111",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "600.0000",
+        "NetValue" : "60000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019112')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019112')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019112",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "600.0000",
+        "NetValue" : "6000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019113')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019113')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019113",
+        "PoItem" : "00010",
+        "ShortText" : "Ecran plat LE 50 P",
+        "Material" : "M-05",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "00207",
+        "TargetQty" : "0.000",
+        "NetPrice" : "600.0000",
+        "NetValue" : "30000.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019114')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019114')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019114",
+        "PoItem" : "00010",
+        "ShortText" : "Garniture plate",
+        "Material" : "R-T200",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "55.0000",
+        "NetValue" : "550.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019114')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019114')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019114",
+        "PoItem" : "00020",
+        "ShortText" : "Ebauche pour boîtier en spirale",
+        "Material" : "R-T100",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "13.0000",
+        "NetValue" : "260.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019115')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019115')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019115",
+        "PoItem" : "00010",
+        "ShortText" : "Garniture plate",
+        "Material" : "R-T200",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "55.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019116')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019116')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019116",
+        "PoItem" : "00010",
+        "ShortText" : "Garniture plate",
+        "Material" : "R-T200",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "0001",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "55.0000",
+        "NetValue" : "1100.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019117')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019117')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019117",
+        "PoItem" : "00010",
+        "ShortText" : "Pied d'état pour des écrans plats LE450",
+        "Material" : "LES04-00",
+        "CoCode" : "1000",
+        "Plant" : "1200",
+        "StoreLoc" : "",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "140.0000",
+        "NetValue" : "16800.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019118')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019118')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019118",
+        "PoItem" : "00010",
+        "ShortText" : "Pied d'état pour des écrans plats LE450",
+        "Material" : "LES04-00",
+        "CoCode" : "1000",
+        "Plant" : "1200",
+        "StoreLoc" : "",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "140.0000",
+        "NetValue" : "16800.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019119')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019119')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019119",
+        "PoItem" : "00010",
+        "ShortText" : "Pied d'état pour des écrans plats LE450",
+        "Material" : "LES04-00",
+        "CoCode" : "1000",
+        "Plant" : "1200",
+        "StoreLoc" : "0140",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "140.0000",
+        "NetValue" : "6720.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019122')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019122')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019122",
+        "PoItem" : "00010",
+        "ShortText" : "DDVS",
+        "Material" : "",
+        "CoCode" : "1000",
+        "Plant" : "1000",
+        "StoreLoc" : "",
+        "MatGrp" : "001",
+        "TargetQty" : "0.000",
+        "NetPrice" : "42.0000",
+        "NetValue" : "4200.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019123')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019123')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019123",
+        "PoItem" : "00010",
+        "ShortText" : "Pied d'état pour des écrans plats LE450",
+        "Material" : "LES04-01",
+        "CoCode" : "1000",
+        "Plant" : "1200",
+        "StoreLoc" : "0141",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "140.0000",
+        "NetValue" : "16800.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019124')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019124')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019124",
+        "PoItem" : "00010",
+        "ShortText" : "Pied d'état pour des écrans plats LE450",
+        "Material" : "LES04-01",
+        "CoCode" : "1000",
+        "Plant" : "1200",
+        "StoreLoc" : "0141",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "140.0000",
+        "NetValue" : "16800.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019125')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019125')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019125",
+        "PoItem" : "00010",
+        "ShortText" : "Pied d'état pour des écrans plats LE450",
+        "Material" : "LES04-01",
+        "CoCode" : "1000",
+        "Plant" : "1200",
+        "StoreLoc" : "0141",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "140.0000",
+        "NetValue" : "6720.0000"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019126')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/SAP/ZPURORDER_PRO_SRV/ZPOSTS_STRUCTURESet('4500019126')",
+          "type" : "ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE"
+        },
+        "PoNumber" : "4500019126",
+        "PoItem" : "00010",
+        "ShortText" : "Pied d'état pour des écrans plats LE450",
+        "Material" : "LES04-01",
+        "CoCode" : "1000",
+        "Plant" : "1200",
+        "StoreLoc" : "0141",
+        "MatGrp" : "002",
+        "TargetQty" : "0.000",
+        "NetPrice" : "140.0000",
+        "NetValue" : "16800.0000"
+      }
+    ]
+  

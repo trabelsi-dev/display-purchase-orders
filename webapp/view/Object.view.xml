@@ -1,0 +1,126 @@
+<mvc:View 
+controllerName="mycompany.myapp.MyWorklistApp.controller.Object" 
+xmlns="sap.m" 
+xmlns:mvc="sap.ui.core.mvc" 
+xmlns:semantic="sap.f.semantic" 
+xmlns:form="sap.ui.layout.form" 
+xmlns:l="sap.ui.layout">
+    <semantic:SemanticPage 
+    id="page"
+    headerPinnable="false"
+	toggleHeaderOnTitleClick="false"
+    busyIndicatorDelay="{objectView>/delay}">
+
+        <semantic:content>
+         <l:VerticalLayout width="100%">
+                <Panel backgroundDesign="Transparent" headerText="{i18n>ObjectOrdersTabTitle}">
+                </Panel>
+
+                <Table 
+                id="table_details_order" 
+                inset="false" 
+                items="{
+		            	path: 'lagpmodel>/results'
+		                }" 
+                noDataText="No orders details" 
+                growing="true" 
+                growingScrollToLoad="true">
+                    <headerToolbar />
+                    <infoToolbar>
+                        <OverflowToolbar>
+                            <Label text="Details order PoNumber " />
+                        </OverflowToolbar>
+                    </infoToolbar>
+                    <columns>
+                        <Column width="10em">
+                            <Text text="PoItem" />
+                        </Column>
+                        <Column minScreenWidth="Tablet" demandPopin="true">
+                            <Text text="CoCode" />
+                        </Column>
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="End">
+                            <Text text="MatGrp" />
+                        </Column>
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="Center">
+                            <Text text="Material" />
+                        </Column>
+
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="Center">
+                            <Text text="NetPrice" />
+                        </Column>
+
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="Center">
+                            <Text text="NetValue" />
+                        </Column>
+
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="Center">
+                            <Text text="Plant" />
+                        </Column>
+
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="Center">
+                            <Text text="StoreLoc" />
+                        </Column>
+
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="Center">
+                            <Text text="ShortText" />
+                        </Column>
+
+                        <Column minScreenWidth="Desktop" demandPopin="true" hAlign="Center">
+                            <Text text="PoNumber" />
+                        </Column>
+                        <Column hAlign="End">
+                            <Text text="TargetQty" />
+                        </Column>
+                    </columns>
+
+                    <items>
+                        <ColumnListItem vAlign="Middle">
+                            <cells>
+                                <ObjectIdentifier title="{lagpmodel>PoItem}" />
+                                <Text text="{lagpmodel>CoCode}" />
+                                <Text text="{lagpmodel>MatGrp}" />
+                                <Text text="{lagpmodel>Material}" />
+                                <Text text="{lagpmodel>NetPrice}" />
+                                <Text text="{lagpmodel>NetValue}" />
+                                <Text text="{lagpmodel>Plant}" />
+                                <Text text="{lagpmodel>StoreLoc}" />
+                                <Text text="{lagpmodel>ShortText}" />
+                                <Text text="{lagpmodel>PoNumber}" />
+                                <Text text="{lagpmodel>TargetQty}" />
+                            </cells>
+                        </ColumnListItem>
+                    </items>
+                </Table>
+         
+                <Panel 
+                backgroundDesign="Transparent" 
+                headerText="{i18n>ObjectCommentsTabTitle}">
+                    <content>
+                        <FeedInput post=".onPost" />
+                        <List 
+                        id="idCommentsList" 
+                        noDataText="{i18n>ObjectCommentNoData}" 
+                        showSeparators="Inner" 
+                        items="{
+						path: 'productFeedback>/productComments',
+								sorter: {
+									path: 'date',
+									descending: true
+								}
+							}">
+                            <FeedListItem 
+                            info="{productFeedback>type}" 
+                            text="{productFeedback>comment}"
+                            timestamp="{productFeedback>date}" />
+                        </List>
+                    </content>
+                </Panel>
+            </l:VerticalLayout>
+
+        </semantic:content>
+
+        <semantic:sendEmailAction>
+            <semantic:SendEmailAction id="shareEmail" press=".onShareEmailPress" />
+        </semantic:sendEmailAction>
+    </semantic:SemanticPage>
+</mvc:View>

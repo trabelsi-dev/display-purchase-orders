@@ -1,0 +1,21 @@
+{
+  "name": "sap.m.worklist.orders",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Worklist Orders App",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "dependencies": {
+    "@openui5/sap.f": "^1.106.0",
+    "@openui5/sap.m": "^1.106.0",
+    "@openui5/sap.ui.core": "^1.106.0",
+    "@openui5/themelib_sap_fiori_3": "^1",
+    "@sapui5/sap.ui.export": "^1.84.28",
+    "library.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^2.0.0"
+  }
+}

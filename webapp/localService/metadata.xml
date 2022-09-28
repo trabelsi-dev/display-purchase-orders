@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<edmx:Edmx xmlns:sap="http://www.sap.com/Protocols/SAPData" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx" Version="1.0">
+    <edmx:DataServices m:DataServiceVersion="2.0">
+        <Schema xml:lang="en" xmlns="http://schemas.microsoft.com/ado/2008/09/edm" sap:schema-version="0000" Namespace="ZPURORDER_PRO_SRV">
+            <EntityType sap:content-version="1" Name="ZORDER_STRUCTURE">
+                <Key>
+                    <PropertyRef Name="Ebeln" />
+                </Key>
+
+                <Property Name="Ebeln" sap:label="Purchasing Doc." MaxLength="10" Nullable="false" Type="Edm.String" />
+
+                <Property Name="Bukrs" sap:label="Company Code" MaxLength="4" Type="Edm.String" />
+
+                <Property Name="Bsart" sap:label="Document Type" MaxLength="4" Type="Edm.String" />
+
+                <Property Name="Aedat" sap:label="Created on" Type="Edm.DateTime" Precision="7" />
+
+                <Property Name="Ernam" sap:label="Created by" MaxLength="12" Type="Edm.String" />
+
+                <Property Name="Lifnr" sap:label="Vendor" MaxLength="10" Type="Edm.String" />
+
+                <Property Name="Spras" sap:label="Language" MaxLength="1" Type="Edm.String" />
+
+                <Property Name="Procstat" sap:label="Proc. state" MaxLength="2" Type="Edm.String" />
+
+                <Property Name="Name1" sap:label="Name" MaxLength="35" Type="Edm.String" />
+
+                <Property Name="Bstyp" sap:label="Doc. Category" MaxLength="1" Type="Edm.String" />
+            </EntityType>
+
+            <EntityType sap:content-version="1" Name="ZPOSTS_STRUCTURE">
+                <Key>
+                    <PropertyRef Name="PoNumber" />
+                </Key>
+
+                <Property Name="PoNumber" sap:label="Purchasing Doc." MaxLength="10" Nullable="false" Type="Edm.String" />
+
+                <Property Name="PoItem" sap:label="Item" MaxLength="5" Type="Edm.String" />
+
+                <Property Name="ShortText" sap:label="Short Text" MaxLength="40" Type="Edm.String" />
+
+                <Property Name="Material" sap:label="Cod.Material" MaxLength="18" Type="Edm.String" />
+
+                <Property Name="CoCode" sap:label="Company Code" MaxLength="4" Type="Edm.String" />
+
+                <Property Name="Plant" sap:label="Plant" MaxLength="4" Type="Edm.String" />
+
+                <Property Name="StoreLoc" sap:label="Stor. Location" MaxLength="4" Type="Edm.String" />
+
+                <Property Name="MatGrp" sap:label="Material Group" MaxLength="9" Type="Edm.String" />
+
+                <Property Name="TargetQty" sap:label="Target Quantity" Type="Edm.Decimal" Precision="13" Scale="3" />
+
+                <Property Name="NetPrice" sap:label="Net price" Type="Edm.Decimal" Precision="23" Scale="4" />
+
+                <Property Name="NetValue" sap:label="Net value" Type="Edm.Decimal" Precision="23" Scale="4" />
+            </EntityType>
+
+            <EntityContainer Name="ZPURORDER_PRO_SRV_Entities" m:IsDefaultEntityContainer="true">
+                <EntitySet sap:content-version="1" Name="ZORDER_STRUCTURESet" sap:pageable="false" sap:deletable="false" sap:updatable="false" sap:creatable="false" EntityType="ZPURORDER_PRO_SRV.ZORDER_STRUCTURE" />
+
+                <EntitySet sap:content-version="1" Name="ZPOSTS_STRUCTURESet" sap:pageable="false" sap:deletable="false" sap:updatable="false" sap:creatable="false" EntityType="ZPURORDER_PRO_SRV.ZPOSTS_STRUCTURE" />
+            </EntityContainer>
+
+            <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/$metadata" rel="self" />
+
+            <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/$metadata" rel="latest-version" />
+        </Schema>
+    </edmx:DataServices>
+</edmx:Edmx>

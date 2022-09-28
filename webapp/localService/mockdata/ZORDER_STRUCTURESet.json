@@ -1,0 +1,1414 @@
+ [
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('1101002')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('1101002')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "1101002",
+        "Bukrs" : "1000",
+        "Bsart" : "M110",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000293')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000293')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000293",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000294')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000294')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000294",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000295')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000295')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000295",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000296')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000296')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000296",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100692",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Test formation",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000297')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000297')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000297",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "FENWICK",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000298')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000298')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000298",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100692",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Test formation",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000299')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000299')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000299",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "FENWICK",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000300')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000300')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000300",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100692",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Test formation",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000301')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000301')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000301",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000302')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000302')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000302",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100694",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "FORMATION012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000303')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000303')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000303",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000304')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000304')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000304",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000305')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000305')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000305",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000306')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000306')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000306",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100692",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Test formation",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000307')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000307')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000307",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000308')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000308')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000308",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000309')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000309')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000309",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "FENWICK",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000310')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000310')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000310",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100692",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Test formation",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000311')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000311')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000311",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "FENWICK",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000312')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000312')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000312",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100692",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Test formation",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000313')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('6000000313')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "6000000313",
+        "Bukrs" : "1000",
+        "Bsart" : "AN",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100694",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "FORMATION012022",
+        "Bstyp" : "A"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000232')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000232')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000232",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641340800000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100691",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Train012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000233')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000233')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000233",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641340800000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000234')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000234')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000234",
+        "Bukrs" : "1000",
+        "Bsart" : "MK",
+        "Aedat" : "\/Date(1641340800000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000235')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000235')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000235",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641340800000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100694",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "FORMATION012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000236')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000236')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000236",
+        "Bukrs" : "1000",
+        "Bsart" : "MK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100694",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "FORMATION012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000237')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000237')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000237",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100694",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "FORMATION012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000238')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000238')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000238",
+        "Bukrs" : "1000",
+        "Bsart" : "MK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000239')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000239')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000239",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000240')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000240')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000240",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100694",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "FORMATION012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000241')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000241')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000241",
+        "Bukrs" : "1000",
+        "Bsart" : "MK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100694",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "FORMATION012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000242')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000242')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000242",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100691",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Train012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000243')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4600000243')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4600000243",
+        "Bukrs" : "1000",
+        "Bsart" : "WK",
+        "Aedat" : "\/Date(1641427200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('5002000010')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('5002000010')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "5002000010",
+        "Bukrs" : "1000",
+        "Bsart" : "CCTR",
+        "Aedat" : "\/Date(1641340800000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100693",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Formation03012022",
+        "Bstyp" : "K"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019078')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019078')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019078",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1640995200000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100691",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Train012022",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019079')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019079')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019079",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1641254400000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "FENWICK",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019080')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019080')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019080",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1641340800000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "FENWICK",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019081')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019081')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019081",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1641513600000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100691",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Train012022",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019082')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019082')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019082",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1641513600000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100691",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "Train012022",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019083')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019083')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019083",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1641513600000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "FENWICK",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019084')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019084')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019084",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1641513600000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100699",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "FENWICK",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019085')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019085')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019085",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1641513600000)\/",
+        "Ernam" : "MRIAHI",
+        "Lifnr" : "100692",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "Test formation",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019087')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019087')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019087",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1645660800000)\/",
+        "Ernam" : "WIEM",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019088')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019088')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019088",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1645747200000)\/",
+        "Ernam" : "FUSER05",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019089')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019089')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019089",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1645747200000)\/",
+        "Ernam" : "FUSER01",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019090')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019090')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019090",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1645747200000)\/",
+        "Ernam" : "FUSER02",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019091')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019091')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019091",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1645747200000)\/",
+        "Ernam" : "FUSER04",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019092')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019092')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019092",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1645747200000)\/",
+        "Ernam" : "FUSER03",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019093')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019093')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019093",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1647993600000)\/",
+        "Ernam" : "FUSER10",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019094')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019094')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019094",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1647993600000)\/",
+        "Ernam" : "FUSER11",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019095')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019095')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019095",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1647993600000)\/",
+        "Ernam" : "FUSER12",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019096')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019096')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019096",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1648339200000)\/",
+        "Ernam" : "FUSER10",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "03",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019097')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019097')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019097",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1648339200000)\/",
+        "Ernam" : "FUSER10",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019098')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019098')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019098",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1649635200000)\/",
+        "Ernam" : "FUSER01",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "03",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019099')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019099')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019099",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1649635200000)\/",
+        "Ernam" : "FUSER01",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019100')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019100')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019100",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1652745600000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD01",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "MillerM",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019101')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019101')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019101",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1652745600000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019102')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019102')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019102",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1652745600000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019103')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019103')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019103",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1652745600000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019104')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019104')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019104",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1652745600000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019105')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019105')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019105",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653177600000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1006",
+        "Spras" : "D",
+        "Procstat" : "05",
+        "Name1" : "Blacks AG",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019106')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019106')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019106",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653264000000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD21",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019107')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019107')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019107",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653264000000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD21",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019108')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019108')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019108",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653264000000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD21",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019109')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019109')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019109",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653264000000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD21",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019110')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019110')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019110",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653264000000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD21",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019111')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019111')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019111",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653350400000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD24",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML MM-FI",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019112')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019112')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019112",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653350400000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD24",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML MM-FI",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019113')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019113')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019113",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1653350400000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "LANDLORD24",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "TEST IML MM-FI",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019114')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019114')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019114",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1654214400000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019115')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019115')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019115",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1654214400000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "02",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019116')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019116')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019116",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1654214400000)\/",
+        "Ernam" : "IMENL",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "03",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019117')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019117')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019117",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1662508800000)\/",
+        "Ernam" : "AHASNI",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019118')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019118')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019118",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1662508800000)\/",
+        "Ernam" : "AHASNI",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019119')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019119')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019119",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1662508800000)\/",
+        "Ernam" : "AHASNI",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019120')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019120')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019120",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1662854400000)\/",
+        "Ernam" : "HSAND",
+        "Lifnr" : "1008",
+        "Spras" : "E",
+        "Procstat" : "02",
+        "Name1" : "Motor constructions Ltd.",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019121')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019121')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019121",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1662854400000)\/",
+        "Ernam" : "HSAND",
+        "Lifnr" : "1008",
+        "Spras" : "E",
+        "Procstat" : "02",
+        "Name1" : "Motor constructions Ltd.",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019122')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019122')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019122",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1662854400000)\/",
+        "Ernam" : "HSAND",
+        "Lifnr" : "T-K500A09",
+        "Spras" : "D",
+        "Procstat" : "03",
+        "Name1" : "Motolux GmbH Gr.09",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019123')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019123')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019123",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1663027200000)\/",
+        "Ernam" : "AHASNI",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019124')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019124')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019124",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1663027200000)\/",
+        "Ernam" : "AHASNI",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019125')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019125')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019125",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1663113600000)\/",
+        "Ernam" : "AHASNI",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      },
+      {
+        "__metadata" : {
+          "id" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019126')",
+          "uri" : "http://EHP7.training.com:8007/sap/opu/odata/sap/ZPURORDER_PRO_SRV/ZORDER_STRUCTURESet('4500019126')",
+          "type" : "ZPURORDER_PRO_SRV.ZORDER_STRUCTURE"
+        },
+        "Ebeln" : "4500019126",
+        "Bukrs" : "1000",
+        "Bsart" : "NB",
+        "Aedat" : "\/Date(1663113600000)\/",
+        "Ernam" : "AHASNI",
+        "Lifnr" : "1000",
+        "Spras" : "F",
+        "Procstat" : "05",
+        "Name1" : "C.E.B. BERLIN",
+        "Bstyp" : "F"
+      }
+    ]
+ 

@@ -1,0 +1,165 @@
+<mvc:View
+	controllerName="mycompany.myapp.MyWorklistApp.controller.Worklist"
+	xmlns="sap.m"
+	xmlns:mvc="sap.ui.core.mvc"
+	xmlns:semantic="sap.f.semantic">
+
+	<semantic:SemanticPage
+		id="page"
+		headerPinnable="false"
+		toggleHeaderOnTitleClick="false"
+		showFooter="false">
+
+		<semantic:titleHeading>
+			<Title text="{i18n>worklistTitle}" />
+		</semantic:titleHeading>
+
+		<semantic:headerContent>
+			<IconTabBar
+				id="iconTabBar"
+				select=".onQuickFilter"
+				expandable="false">
+				<items>
+					<IconTabFilter
+						key="all"
+						showAll="true"
+						count="{worklistView>/countAll}"
+						text="{i18n>WorklistFilterOrdersAll}"/>
+					<IconTabSeparator/>
+
+					<IconTabFilter
+						key="offre"
+						icon="sap-icon://customer-order-entry"
+						iconColor="Positive"
+						count="{worklistView>/offre}"
+						text="{i18n>WorklistFilterInStock}"/>
+
+					<IconTabFilter
+						key="contrat"
+						icon="sap-icon://clinical-tast-tracker"
+						iconColor="Critical"
+						count="{worklistView>/contrat}"
+						text="{i18n>WorklistFilterShortage}"/>
+
+					<IconTabFilter
+						key="commande"
+						icon="sap-icon://per-diem"
+						iconColor="Negative"
+						count="{worklistView>/commande}"
+						text="{i18n>WorklistFilterOutOfStock}"/>
+						
+						<IconTabFilter
+						key="livraison"
+						icon="sap-icon://shipping-status"
+						iconColor="Negative"
+						count="{worklistView>/livraison}"
+						text="{i18n>Livraison}"/>
+				</items>
+
+				<!-- worklist rows data -->
+				<content>
+					<Table
+						id="table"
+						busyIndicatorDelay="{worklistView>/tableBusyDelay}"
+						growing="true"
+						growingScrollToLoad="true"
+						noDataText="{worklistView>/tableNoDataText}"
+						updateFinished=".onUpdateFinished"
+						width="auto"
+						
+						items="{							
+							path: '/ZORDER_STRUCTURESet',
+							 descending: false					
+						}">
+					<headerToolbar>
+				
+						<Toolbar>
+							<Title 
+								id="tableHeader"
+								text="{worklistView>/worklistTableTitle}"/>
+							<ToolbarSpacer/>
+							<SearchField
+								id="searchField"
+								tooltip="{i18n>worklistSearchTooltip}"
+								search=".onFilterPosts"
+								width="auto">
+							</SearchField>
+										<OverflowToolbar>
+											<ToolbarSpacer />
+											<Button icon="sap-icon://excel-attachment" press="onExport"
+											id="download"/>
+										</OverflowToolbar>
+						</Toolbar>
+					</headerToolbar>
+
+						<columns>
+							<Column id="nameColumn">
+								<Text
+									id="nameColumnTitle"
+									text="{i18n>TableOrderNumberColumnTitle}"/>
+							</Column>
+
+							<Column
+								id="fournisseurColumn"
+								demandPopin="false"
+								minScreenWidth="Tablet">
+								<Text text="{i18n>TableFournisseurColumnTitle}"/>
+							</Column>
+
+							<Column
+								id="companyColumn"
+								hAlign="End"
+								demandPopin="true"
+								minScreenWidth="Tablet">
+								<Text text="{i18n>TableCompanyColumnTitle}"/>
+							</Column>
+
+							<Column id="LanguageColumn"
+								demandPopin="true"
+								minScreenWidth="Tablet"
+								hAlign="End">
+								<Text text="{i18n>TableLanguageColumnTitle}"/>
+							</Column>
+						</columns>
+					
+					<items>
+						<ColumnListItem
+							type="Navigation"
+							press=".onPress">
+							<cells>
+								<ObjectIdentifier
+									title="{Ebeln}"/>
+																									
+									<ObjectIdentifier  
+										title="Fournisseur : {Lifnr}" 
+										text="description : {Name1}" 
+										titleActive="true" 
+										titlePress="titleClicked"/>
+
+									<Text 
+										text = "{Bukrs}"/>
+
+									<ObjectStatus 
+										xmlns="sap.m"
+										state="{= ${Spras} === 'F' ? 'Success' : 'Error'}"
+										text="{Spras}"  
+								/>				
+
+								</cells>
+							</ColumnListItem>
+						</items>
+					</Table>
+				</content>
+			</IconTabBar>
+		</semantic:headerContent>
+		<semantic:sendEmailAction>
+			<semantic:SendEmailAction id="shareEmail" press=".onShareEmailPress"/>
+		</semantic:sendEmailAction>
+		<semantic:positiveAction>
+			<semantic:PositiveAction text="{i18n>TableProductsReorder}" press=".onUpdateStockObjects"/>
+		</semantic:positiveAction>
+		<semantic:negativeAction>
+			<semantic:NegativeAction text="{i18n>TableOrdersUnlist}" press=".onUnlistObjects"/>
+		</semantic:negativeAction>
+	</semantic:SemanticPage>
+</mvc:View>
