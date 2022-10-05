@@ -15,7 +15,8 @@ sap.ui.define([
 	"use strict";
 
 	 var EdmType = exportLibrary.EdmType;
-	 var nameFile = 'all Orders';
+	 var nameFile = 'all';
+	 var filterKey = "all";
 
 	 return BaseController.extend("mycompany.myapp.MyWorklistApp.controller.Worklist", {
 
@@ -247,31 +248,55 @@ sap.ui.define([
 
 
 
-		onFilterPosts: function (oEvent) {
+//I call function  getInitialFilter  on onFilterPosts function
+getInitialFilter: function() {
+	var result;
+	result = new Filter("Bstyp", FilterOperator.EQ, filterKey);
 
-			// build filter array
-			var aFilter = [];
-			var sQuery = oEvent.getParameter("query");
-			if (sQuery) {
-				aFilter.push(
-					new Filter({
-						filters: [
-							new Filter("Ebeln", FilterOperator.Contains, sQuery),
-							new Filter("Lifnr", FilterOperator.Contains, sQuery),
-							new Filter("Name1", FilterOperator.Contains, sQuery),
-							new Filter("Bukrs", FilterOperator.Contains, sQuery),
-							new Filter("Spras", FilterOperator.Contains, sQuery),
-						],
-						and: false,
-					})
-				);
-			}
+	return result;
+},
 
-			// filter binding
-			var oTable = this.byId("table");
-			var oBinding = oTable.getBinding("items");
-			oBinding.filter(aFilter);
-		},
+//I call function  getSearchFilters  on onFilterPosts function
+getSearchFilters: function(sQuery) {
+  return new Filter({
+    filters: [
+			    new Filter("Ebeln", FilterOperator.Contains, sQuery),
+					new Filter("Lifnr", FilterOperator.Contains, sQuery),
+			 	  new Filter("Name1", FilterOperator.Contains, sQuery),
+					new Filter("Bukrs", FilterOperator.Contains, sQuery),
+					new Filter("Spras", FilterOperator.Contains, sQuery),
+    ],
+    and: false,
+  });
+},
+
+// search filer
+onFilterPosts: function(event) {
+	var aFilterGlobal =[];
+	// filter in specific bstyp
+	if(nameFile !== "all"){
+		this.byId("table").getBinding("items").filter(aFilterGlobal.push(new Filter({
+			filters: [
+				this.getInitialFilter(),
+				this.getSearchFilters(event.getParameter("query")),
+			],
+			and: true,
+		})));
+	// filter in all orders
+	}else {
+		this.byId("table").getBinding("items").filter(aFilterGlobal.push(new Filter({
+			filters: [
+				this.getSearchFilters(event.getParameter("query")),
+			],
+			and: true,
+		})));
+	}
+
+		// filter binding
+		var oTable = this.byId("table");
+		var oBinding = oTable.getBinding("items");
+		oBinding.filter(aFilterGlobal);
+},
 
 		/**
 		 * Event handler for refresh event. Keeps filter, sort
@@ -333,11 +358,28 @@ sap.ui.define([
 		 * @param {sap.ui.base.Event} oEvent the filter tab event
 		 * @public
 		 */
-		
 		onQuickFilter: function(oEvent) {
 			var oBinding = this._oTable.getBinding("items"),
 				  sKey = oEvent.getParameter("selectedKey");
 					nameFile = sKey;
+					switch (sKey) {
+						case "offre":
+							filterKey = "A"
+							break;
+						case "contrat":
+							filterKey = "K"						
+							break;
+						case "commande":
+							filterKey = "F"						
+							break;
+						case "livraison":
+							filterKey = "L"			
+							break;
+					
+						default:
+							filterKey = "all"
+							break;
+					}
 			oBinding.filter(this._mFilters[sKey]);
 			
 		},

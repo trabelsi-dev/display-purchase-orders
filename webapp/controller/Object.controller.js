@@ -10,11 +10,11 @@ sap.ui.define([
 ], function (
 	BaseController, JSONModel, History, formatter, DateFormat, Filter, FilterOperator) {
 	"use strict";
-
+	
 	return BaseController.extend("mycompany.myapp.MyWorklistApp.controller.Object", {
 
 		formatter: formatter,
-
+	
 		/* =========================================================== */
 		/* lifecycle methods                                           */
 		/* =========================================================== */
@@ -32,7 +32,7 @@ sap.ui.define([
 					busy : true,
 					delay : 0
 				});
-
+				
 			this.getRouter().getRoute("object").attachPatternMatched(this._onObjectMatched, this);
 
 			// Store original busy indicator delay, so it can be restored later on
@@ -97,7 +97,7 @@ sap.ui.define([
 
 				this.getModel().metadataLoaded().then( function() {
 					var ordersTable = this.byId("table_details_order");
-					this.getModel().read("/ZPOSTS_STRUCTURESet", {
+				  this.getModel().read("/ZPOSTS_STRUCTURESet", {
 										filters: lo_EbelnFilter,
 										urlParameters: {},
 										success: function(oData) {
@@ -113,7 +113,7 @@ sap.ui.define([
 											console.log(oError);
 				}}
 				);
-
+			
 				}.bind(this));
 },
 
@@ -151,7 +151,7 @@ sap.ui.define([
 			var oView = this.getView(),
 				  oViewModel = this.getModel("objectView"),
 				  oElementBinding = oView.getElementBinding();
-
+	
 			// No data for the binding
 			if (!oElementBinding.getBoundContext()) {
 				this.getRouter().getTargets().display("objectNotFound");

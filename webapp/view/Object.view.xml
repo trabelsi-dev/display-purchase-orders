@@ -91,7 +91,7 @@ xmlns:l="sap.ui.layout">
                         </ColumnListItem>
                     </items>
                 </Table>
-         
+     
                 <Panel 
                 backgroundDesign="Transparent" 
                 headerText="{i18n>ObjectCommentsTabTitle}">
@@ -116,7 +116,7 @@ xmlns:l="sap.ui.layout">
                     </content>
                 </Panel>
             </l:VerticalLayout>
-
+    
         </semantic:content>
 
         <semantic:sendEmailAction>
