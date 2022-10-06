@@ -31,6 +31,7 @@
             <EntityType sap:content-version="1" Name="ZPOSTS_STRUCTURE">
                 <Key>
                     <PropertyRef Name="PoNumber" />
+                    <PropertyRef Name="PoItem"/>
                 </Key>
 
                 <Property Name="PoNumber" sap:label="Purchasing Doc." MaxLength="10" Nullable="false" Type="Edm.String" />
