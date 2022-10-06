@@ -18,19 +18,7 @@ a Fiori application using the 'Worklist' template to consult purchase orders .
 
 5/ Quick search / Filters 
 
- <li>
-    
-      <ul>
-     
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-
- <li><a href="#contact">Contact</a></li>
- 
 ### Installation
-
-_
 
 
 1. Clone the repo
